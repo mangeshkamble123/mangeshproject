@@ -1,0 +1,4 @@
+# Created at 2021-12-11T06:50:07.873
+Boot Manifest-JAR contains absolute paths in classpath 'E:\workspace38\compamy_project\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

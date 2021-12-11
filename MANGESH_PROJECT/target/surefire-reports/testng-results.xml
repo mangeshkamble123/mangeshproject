@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30029" started-at="2021-12-11T14:50:55Z" finished-at="2021-12-11T14:51:25Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30029" started-at="2021-12-11T14:50:55Z" finished-at="2021-12-11T14:51:25Z">
+      <class name="com.test.Test1">
+        <test-method status="PASS" signature="browserSetup()[pri:0, instance:com.test.Test1@31ef45e3]" name="browserSetup" is-config="true" duration-ms="44895" started-at="2021-12-11T14:50:10Z" finished-at="2021-12-11T14:50:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method status="PASS" signature="verifyname()[pri:1, instance:com.test.Test1@31ef45e3]" name="verifyname" duration-ms="8193" started-at="2021-12-11T14:50:55Z" finished-at="2021-12-11T14:51:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyname -->
+        <test-method status="PASS" signature="verifyadd()[pri:2, instance:com.test.Test1@31ef45e3]" name="verifyadd" duration-ms="978" started-at="2021-12-11T14:51:03Z" finished-at="2021-12-11T14:51:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyadd -->
+        <test-method status="PASS" signature="verifymailphone()[pri:3, instance:com.test.Test1@31ef45e3]" name="verifymailphone" duration-ms="1741" started-at="2021-12-11T14:51:04Z" finished-at="2021-12-11T14:51:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifymailphone -->
+        <test-method status="PASS" signature="verifymaicheck()[pri:4, instance:com.test.Test1@31ef45e3]" name="verifymaicheck" duration-ms="3569" started-at="2021-12-11T14:51:06Z" finished-at="2021-12-11T14:51:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifymaicheck -->
+        <test-method status="PASS" signature="verifytext()[pri:5, instance:com.test.Test1@31ef45e3]" name="verifytext" duration-ms="1794" started-at="2021-12-11T14:51:10Z" finished-at="2021-12-11T14:51:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytext -->
+        <test-method status="PASS" signature="verifypass()[pri:6, instance:com.test.Test1@31ef45e3]" name="verifypass" duration-ms="366" started-at="2021-12-11T14:51:11Z" finished-at="2021-12-11T14:51:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifypass -->
+        <test-method status="PASS" signature="verifycpass()[pri:7, instance:com.test.Test1@31ef45e3]" name="verifycpass" duration-ms="341" started-at="2021-12-11T14:51:12Z" finished-at="2021-12-11T14:51:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycpass -->
+        <test-method status="PASS" signature="verifycount()[pri:8, instance:com.test.Test1@31ef45e3]" name="verifycount" duration-ms="4350" started-at="2021-12-11T14:51:12Z" finished-at="2021-12-11T14:51:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycount -->
+        <test-method status="PASS" signature="verifyimage()[pri:9, instance:com.test.Test1@31ef45e3]" name="verifyimage" duration-ms="123" started-at="2021-12-11T14:51:16Z" finished-at="2021-12-11T14:51:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyimage -->
+        <test-method status="PASS" signature="verifyclick()[pri:10, instance:com.test.Test1@31ef45e3]" name="verifyclick" duration-ms="7973" started-at="2021-12-11T14:51:17Z" finished-at="2021-12-11T14:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyclick -->
+      </class> <!-- com.test.Test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
